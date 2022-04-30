@@ -1,0 +1,11 @@
+payement_id,amount,payement_mode,email_id,ticket_id
+1,600,GPAY,dcobby0@amazon.co.uk,1
+2,300,CASH,acastaignet2@digg.com,2
+3,600,PHONEPAY,pbrockman4@princeton.edu,3
+4,300,GPAY,easpin6@bing.com,4
+5,600,CASH,dcullivang@springer.com,5
+6,600,PAYTM,nreaveleya@abc.net.au ,6
+7,300,PHONEPAY,iarkcollm@answers.com,7
+8,300,PAYTM,tblakero@telegraph.co.uk,8
+9,600,CASH,neburneq@imageshack.us,9
+10,300,PHONEPAY,ksaintepauls@edublogs.org,10
